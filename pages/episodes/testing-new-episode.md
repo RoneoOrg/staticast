@@ -5,7 +5,7 @@ episode:
   type: full
   explicit: no
   block: no
-  file: /l-aute-jorn-tutti-version-passeurs-et-passeuses.mp3
+  file: /los-enfants-de-la-luna-voix-basse-haute-sur-la-partie-2-version-la-cdc.wav
   image: /wave-data.jpg
 ---
 Lorem
