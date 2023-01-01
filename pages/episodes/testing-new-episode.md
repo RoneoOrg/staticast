@@ -5,7 +5,7 @@ episode:
   type: full
   explicit: no
   block: no
-  file: /bachar-mar-khalife-wolf-pack.m4a
-  image: /mailbox.png
+  file: /l-aute-jorn-tutti-version-passeurs-et-passeuses.mp3
+  image: /wave-data.jpg
 ---
 Lorem
